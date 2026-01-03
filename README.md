@@ -23,4 +23,4 @@ https://caregroup.gt.tc
 ## 🛡️ Notes
 Database file is not included for security reasons.
 
-👨‍💻 Developed by **Muhammad Fasih**
+👨‍💻 Developed by [Muhammad Fasih](https://fasihwebs.wuaze.com)
